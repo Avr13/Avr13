@@ -1,7 +1,7 @@
 ![Avr13 Cover](https://raw.githubusercontent.com/Avr13/Avr13/main/Avtar%20cover.png)
 
-###<h2> Hey, I'm Avrodeep! - aka [Avr13][github]👋
-[github]: https://github.com/Avr13 
+### Hey, I'm Avrodeep! - aka [Avr13][github]👋
+[github]:https://github.com/Avr13 
 
 <img src="https://komarev.com/ghpvc/? username=Avr13&label=Profile%20views&color=0e75b6&style=flat" alt="Avr13" />  &nbsp; ![GitHub followers](https://img.shields.io/github/followers/Avr13?style=social) 
 
