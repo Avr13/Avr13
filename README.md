@@ -1,4 +1,4 @@
-![Avr13 Cover](C:\Users\user\Desktop)
+![Avr13 Cover](https://github.com/Avr13/Avr13/blob/main/Avtar%20cover.png?raw=true)
 
 ### Hey, I'm Avrodeep! - aka [Avr13][github]👋
 [github]: https://github.com/Avr13
