@@ -3,7 +3,7 @@
 ### Hey, I'm Avrodeep! - aka [Avr13][github]👋
 [github]: https://github.com/Avr13
 
-![GitHub watchers](https://img.shields.io/github/watchers/Avr13/Avr13?style=social) &nbsp; ![GitHub followers](https://img.shields.io/github/followers/Avr13?style=social) 
+<img src="https://komarev.com/ghpvc/? username=Avr13&label=Profile%20views&color=0e75b6&style=flat" alt="Avr13" />  &nbsp; ![GitHub followers](https://img.shields.io/github/followers/Avr13?style=social) 
 
 <b>A curious programmer aiming to be a adept. Being quite ambitious and driven, creating, developing and solving tasks are few things in which I am highly intrested and passionate. Apart from that, I'm just a nerd for sports and games. </b>
 - <i><b>Currently:</i></b> CS Student at Vellore Institute of Technology (VIT). 
@@ -13,8 +13,8 @@
     - Problem solver Badged at Hackerrank
     - X Hackathon Level 1 along with 3 other achievements at DevPost
 
+📌 Looking someone for Hackathons, coding competions, developers or something new? Just drop an email and let's catch over!
 
-📌 Looking someone for Hackathons, coding competions, developers or stuff? Just drop an email and let's catch over!
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
