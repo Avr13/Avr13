@@ -26,27 +26,16 @@
 <p align="left"> <a href="https://devpost.com/Avr13?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank"> <img src="https://devpost-challengepost.netdna-ssl.com/assets/reimagine2/devpost-logo-646bdf6ac6663230947a952f8d354cad.svg" alt="c" width="120 height="40"/> </a></p>
 
 <h3 align="left">GitHub Stats:</h3>
-<table border="0" align="center">
-<tr>
-<td align="center" width="324" rowspan="3" border="0">
-<!-- <img src="https://github.com/Avr13/Avr13/blob/main/ascii-art.txt" alt="Illustration" width="324" /> -->
-</td>
-<td align="center" width="440" border="0">
-<img src="https://github-readme-stats.vercel.app/api?username=Avr13&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff" alt="Stats" width="440" />
-</tr>
-<tr>
-</tr>
-<tr>
-<td align="center" width="440" border="0">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Avr13&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff" alt="Stats" width="440" />_
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avr13&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff&layout=compact&card_width=440&langs_count=6" alt="Stats" width="440" />
-</td>
-</tr>
-</table>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/avrodeep-saha-b62739218/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-line-color.svg" alt="Avrodeep Saha" height="30" width="40" /></a>
-<a href="https://www.instagram.com/avrodeepsaha/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-round-line-color.svg" alt="avrodeepsaha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/avrodeep-saha-b62739218/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-line-color.svg" alt="Avrodeep Saha" height="40" width="40" /></a> &nbsp;
+<a href="https://www.instagram.com/avrodeepsaha/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-round-line-color.svg" alt="avrodeepsaha" height="40" width="40" /></a>
 </p>
 
 <h5>📫 Email me at:</h3>
