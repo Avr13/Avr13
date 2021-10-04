@@ -1,6 +1,6 @@
 ![Avr13 Cover](https://raw.githubusercontent.com/Avr13/Avr13/main/Avtar%20cover.png)
 
-###<h2> Hey, I'm Avrodeep! - aka [Avr13][github]👋
+## Hey, I'm Avrodeep! - aka [Avr13][github]👋
 [github]:https://github.com/Avr13 
 
 <img src="https://komarev.com/ghpvc/? username=Avr13&label=Profile%20views&color=0e75b6&style=flat" alt="Avr13" />  &nbsp; ![GitHub followers](https://img.shields.io/github/followers/Avr13?style=social) 
@@ -29,7 +29,7 @@
 <table border="0" align="center">
 <tr>
 <td align="center" width="324" rowspan="3" border="0">
-<img src="" alt="Illustration" width="324" />
+<!-- <img src="https://github.com/Avr13/Avr13/blob/main/ascii-art.txt" alt="Illustration" width="324" /> -->
 </td>
 <td align="center" width="440" border="0">
 <img src="https://github-readme-stats.vercel.app/api?username=Avr13&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff" alt="Stats" width="440" />
