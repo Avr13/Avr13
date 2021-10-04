@@ -1,6 +1,6 @@
 ![Avr13 Cover](https://raw.githubusercontent.com/Avr13/Avr13/main/Avtar%20cover.png)
 
-## Hey, I'm Avrodeep! - aka [Avr13][github]👋
+###<h2> Hey, I'm Avrodeep! - aka [Avr13][github]👋
 [github]:https://github.com/Avr13 
 
 <img src="https://komarev.com/ghpvc/? username=Avr13&label=Profile%20views&color=0e75b6&style=flat" alt="Avr13" />  &nbsp; ![GitHub followers](https://img.shields.io/github/followers/Avr13?style=social) 
@@ -13,18 +13,35 @@
     - Problem solver Badged at Hackerrank
     - X Hackathon Level 1 along with 3 other achievements at DevPost
 
-📌 Looking someone for Hackathons, coding competions, developers or something new? Just drop an email and let's catch over!
+📌 Looking someone for Hackathons, coding competions, developers or some innovation? Just drop an email and let's catch over!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![enter image description here](https://github-readme-stats.vercel.app/api/top-langs?username=Avr13&theme=onedark) 
 
 <h3 align="left">My Coding Platforms:</h3>
 <p align="left"> <a href="https://www.codechef.com/users/avr13" target="_blank"> <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo-sd.svg" alt="c" width="130 height="40"/> </a>&nbsp;&nbsp;<a href="https://www.hackerrank.com/avrodeepsaha" target="_blank">  <img src="https://lp-cdn.lastpass.com/lporcamedia/-/apps/h/hackerrank.png" alt="python" width="140" height="35"/> </a> </p>
 
 <h3 align="left">Hackathon Platforms:</h3>
 <p align="left"> <a href="https://devpost.com/Avr13?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank"> <img src="https://devpost-challengepost.netdna-ssl.com/assets/reimagine2/devpost-logo-646bdf6ac6663230947a952f8d354cad.svg" alt="c" width="120 height="40"/> </a></p>
+
+<h3 align="left">GitHub Stats:</h3>
+<table border="0" align="center">
+<tr>
+<td align="center" width="324" rowspan="3" border="0">
+<img src="" alt="Illustration" width="324" />
+</td>
+<td align="center" width="440" border="0">
+<img src="https://github-readme-stats.vercel.app/api?username=Avr13&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff" alt="Stats" width="440" />
+</tr>
+<tr>
+</tr>
+<tr>
+<td align="center" width="440" border="0">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avr13&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff&layout=compact&card_width=440&langs_count=6" alt="Stats" width="440" />
+</td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
