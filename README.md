@@ -31,7 +31,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avr13&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff&layout=compact&card_width=440&langs_count=6" alt="Stats" width="440" />
 
-![](https://github-profile-trophy.vercel.app/?username=Chahakgarg&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Avr13&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
